@@ -1,0 +1,1088 @@
+{
+	"type": "FeatureCollection",
+	"features": 
+			
+		[{
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11a",
+				"areaName": "se11a",
+				"coordinates": [[[11.541, 57.244], [12.208, 57.255], [13.48, 56.561], [12.911, 56.557], [12.064, 56.597], [11.737, 57.0], [11.541, 57.244]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11e",
+				"areaName": "se11e",
+				"coordinates": [[[13.48, 56.561], [14.516, 56.143], [14.328, 56.065], [14.187, 55.857], [13.254, 56.089], [13.48, 56.561]]]
+			}
+
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11d",
+				"areaName": "se11d",
+				"coordinates": [[[12.911, 56.557], [13.48, 56.561], [13.254, 56.089], [13.21, 55.984], [12.791, 55.98], [12.496, 56.316], [12.631, 56.475], [12.911, 56.557]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11c",
+				"areaName": "se11c",
+				"coordinates": [[[12.641, 55.337], [12.869, 55.671], [12.711, 55.828], [12.67, 55.98], [12.791, 55.98], [13.21, 55.984], [12.948, 55.461], [12.641, 55.337]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11b",
+				"areaName": "se11b",
+				"coordinates": [[[12.064, 56.597], [12.911, 56.557], [12.631, 56.475], [12.496, 56.316], [12.791, 55.98], [12.67, 55.98], [12.654, 56.041], [12.368, 56.215], [12.064, 56.597]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11i" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11i",
+				"areaName": "se11i",
+				"coordinates": [[[14.093, 55.414], [14.64, 55.308], [15.199, 55.641], [15.597, 55.297], [15.309, 54.917], [15.135, 54.917], [15.0, 54.833], [14.7, 54.783], [14.41, 54.833], [14.358, 54.917], [14.182, 54.917], [14.093, 55.414]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11h" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11h",
+				"areaName": "se11h",
+				"coordinates": [[[14.516, 56.143], [15.199, 55.641], [14.64, 55.308], [14.093, 55.414], [14.187, 55.857], [14.328, 56.065], [14.516, 56.143]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11g" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11g",
+				"areaName": "se11g",
+				"coordinates": [[[14.093, 55.414], [14.182, 54.917], [12.85, 54.917], [12.641, 55.337], [12.948, 55.461], [14.093, 55.414]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se11f" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se11f",
+				"areaName": "se11f",
+				"coordinates": [[[13.254, 56.089], [14.187, 55.857], [14.093, 55.414], [12.948, 55.461], [13.21, 55.984], [13.254, 56.089]]]
+			}
+		},{
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21d",
+				"areaName": "se21d",
+				"coordinates": [[[11.748, 59.6], [12.696, 59.508], [13.062, 59.485], [12.41, 59.0], [11.734, 59.035], [11.821, 59.258], [11.7, 59.568], [11.748, 59.6]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21c"
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21c",
+				"areaName": "se21c",
+				"coordinates": [[[11.031, 57.865], [11.728, 57.852], [12.208, 57.255], [11.541, 57.244], [11.15, 57.7], [11.031, 57.865]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21b",
+				"areaName": "se21b",
+				"coordinates": [[[10.76, 58.19], [11.492, 58.322], [11.728, 57.852], [11.031, 57.865], [10.76, 58.19]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21a",
+				"areaName": "se21a",
+				"coordinates": [[[11.009, 58.969], [11.492, 58.322], [10.76, 58.19], [10.5, 58.5], [10.644, 58.892], [11.009, 58.969]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21h" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21h",
+				"areaName": "se21h",
+				"coordinates": [[[13.062, 59.485], [14.002, 59.383], [14.207, 58.985], [13.798, 58.72], [12.165, 58.811], [12.41, 59.0], [13.062, 59.485]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21g" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21g",
+				"areaName": "se21g",
+				"coordinates": [[[11.728, 57.852], [12.273, 57.836], [12.569, 57.84], [12.839, 57.238], [12.208, 57.255], [11.728, 57.852]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21f" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21f",
+				"areaName": "se21f",
+				"coordinates": [[[11.492, 58.322], [11.988, 58.411], [12.102, 58.202], [12.211, 58.045], [12.273, 57.836], [11.728, 57.852], [11.492, 58.322]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21e",
+				"areaName": "se21e",
+				"coordinates": [[[11.734, 59.035], [12.41, 59.0], [12.165, 58.811], [11.988, 58.411], [11.492, 58.322], [11.009, 58.969], [11.08, 58.984], [11.148, 59.08], [11.343, 59.122], [11.459, 58.985], [11.453, 58.888], [11.648, 58.906], [11.734, 59.035]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21l" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21l",
+				"areaName": "se21l",
+				"coordinates": [[[12.211, 58.045], [14.253, 58.35], [14.052, 58.087], [14.051, 57.823], [12.569, 57.84], [12.273, 57.836], [12.211, 58.045]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21k" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21k",
+				"areaName": "se21k",
+				"coordinates": [[[13.798, 58.72], [14.51, 58.667], [14.253, 58.35], [12.211, 58.045], [12.102, 58.202], [13.346, 58.481], [13.798, 58.72]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21j" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21j",
+				"areaName": "se21j",
+				"coordinates": [[[14.002, 59.383], [14.987, 59.273], [14.927, 59.034], [14.871, 58.876], [14.51, 58.667], [13.798, 58.72], [14.207, 58.985], [14.002, 59.383]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21i"
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21i",
+				"areaName": "se21i",
+				"coordinates": [[[12.165, 58.811], [13.798, 58.72], [13.346, 58.481], [12.102, 58.202], [11.988, 58.411], [12.165, 58.811]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21o" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21o",
+				"areaName": "se21o",
+				"coordinates": [[[12.208, 57.255], [12.839, 57.238], [13.808, 57.244], [13.48, 56.561], [12.208, 57.255]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21n" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21n",
+				"areaName": "se21n",
+				"coordinates": [[[12.569, 57.84], [14.051, 57.823], [13.904, 57.507], [13.808, 57.244], [12.839, 57.238], [12.569, 57.84]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se21m" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se21m",
+				"areaName": "se21m",
+				"coordinates": [[[14.871, 58.876], [14.916, 58.664], [14.911, 58.505], [14.605, 58.375], [14.5, 58.086], [14.199, 57.77], [14.051, 57.823], [14.052, 58.087], [14.253, 58.35], [14.51, 58.667], [14.871, 58.876]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22a",
+				"areaName": "se22a",
+				"coordinates": [[[16.164, 57.67], [17.237, 57.59], [16.725, 56.789], [15.822, 56.887], [16.164, 57.67]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22e",
+				"areaName": "se22e",
+				"coordinates": [[[14.199, 57.77], [15.624, 57.679], [15.354, 57.131], [14.871, 57.136], [14.533, 57.164], [13.904, 57.507], [14.051, 57.823], [14.199, 57.77]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22d",
+				"areaName": "se22d",
+				"coordinates": [[[17.824, 56.781], [18.435, 56.3], [16.914, 55.5], [16.391, 55.85], [17.824, 56.781]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22c",
+				"areaName": "se22c",
+				"coordinates": [[[17.237, 57.59], [17.824, 56.781], [16.391, 55.85], [16.15, 56.069], [16.391, 56.169], [16.725, 56.789], [17.237, 57.59]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22b",
+				"areaName": "se22b",
+				"coordinates": [[[15.822, 56.887], [16.725, 56.789], [16.391, 56.169], [16.15, 56.069], [15.929, 56.283], [15.657, 56.471], [15.822, 56.887]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22i" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22i",
+				"areaName": "se22i",
+				"coordinates": [[[13.48, 56.561], [14.665, 56.534], [15.137, 56.478], [15.128, 56.243], [14.8, 56.246], [14.516, 56.143], [13.48, 56.561]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22h" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22h",
+				"areaName": "se22h",
+				"coordinates": [[[14.871, 57.136], [15.354, 57.131], [15.822, 56.887], [15.657, 56.471], [15.137, 56.478], [14.665, 56.534], [14.871, 57.136]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22g" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22g",
+				"areaName": "se22g",
+				"coordinates": [[[13.904, 57.507], [14.533, 57.164], [14.871, 57.136], [14.665, 56.534], [13.48, 56.561], [13.808, 57.244], [13.904, 57.507]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22f"
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22f",
+				"areaName": "se22f",
+				"coordinates": [[[15.624, 57.679], [16.164, 57.67], [15.822, 56.887], [15.354, 57.131], [15.624, 57.679]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22l" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22l",
+				"areaName": "se22l",
+				"coordinates": [[[16.391, 55.85], [16.914, 55.5], [15.867, 54.917], [15.309, 54.917], [15.597, 55.297], [16.391, 55.85]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22k" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22k",
+				"areaName": "se22k",
+				"coordinates": [[[14.516, 56.143], [14.8, 56.246], [15.128, 56.243], [15.929, 56.283], [16.15, 56.069], [16.391, 55.85], [15.597, 55.297], [15.199, 55.641], [14.516, 56.143]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se22j"
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se22j",
+				"areaName": "se22j",
+				"coordinates": [[[15.137, 56.478], [15.657, 56.471], [15.929, 56.283], [15.128, 56.243], [15.137, 56.478]]]
+			}
+		},{
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32d",
+				"areaName": "se32d",
+				"coordinates": [[[15.161, 59.749], [15.793, 59.741], [16.283, 59.28], [15.749, 59.025], [14.927, 59.034], [14.987, 59.273], [15.161, 59.749]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32c",
+				"areaName": "se32c",
+				"coordinates": [[[16.295, 58.115], [17.291, 58.089], [17.237, 57.59], [16.164, 57.67], [16.295, 58.115]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32b",
+				"areaName": "se32b",
+				"coordinates": [[[17.337, 58.962], [17.956, 58.596], [17.311, 58.274], [17.291, 58.089], [16.295, 58.115], [16.364, 58.351], [16.435, 58.614], [16.647, 58.715], [17.337, 58.962]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32a",
+				"areaName": "se32a",
+				"coordinates": [[[18.58, 59.689], [19.879, 59.636], [19.918, 59.52], [19.227, 59.181], [17.956, 58.596], [17.337, 58.962], [17.928, 59.155], [18.58, 59.689]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32h" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32h",
+				"areaName": "se32h",
+				"coordinates": [[[14.927, 59.034], [15.749, 59.025], [16.647, 58.715], [16.435, 58.614], [14.916, 58.664], [14.871, 58.876], [14.927, 59.034]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32g" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32g",
+				"areaName": "se32g",
+				"coordinates": [[[17.632, 59.271], [17.928, 59.155], [17.337, 58.962], [16.647, 58.715], [15.749, 59.025], [16.283, 59.28], [17.632, 59.271]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32f" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32f",
+				"areaName": "se32f",
+				"coordinates": [[[17.688, 59.721], [18.58, 59.689], [17.928, 59.155], [17.632, 59.271], [17.688, 59.721]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32e",
+				"areaName": "se32e",
+				"coordinates": [[[15.793, 59.741], [16.371, 59.73], [17.212, 59.709], [17.688, 59.721], [17.632, 59.271], [16.283, 59.28], [15.793, 59.741]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32j" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32j",
+				"areaName": "se32j",
+				"coordinates": [[[14.605, 58.375], [16.364, 58.351], [16.295, 58.115], [16.164, 57.67], [15.624, 57.679], [14.199, 57.77], [14.5, 58.086], [14.605, 58.375]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se32i" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se32i",
+				"areaName": "se32i",
+				"coordinates": [[[14.916, 58.664], [16.435, 58.614], [16.364, 58.351], [14.605, 58.375], [14.911, 58.505], [14.916, 58.664]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se31c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se31c",
+				"areaName": "se31c",
+				"coordinates": [[[13.246, 60.445], [14.269, 60.154], [14.16, 59.781], [12.696, 59.508], [11.748, 59.6], [13.246, 60.445]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se31b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se31b",
+				"areaName": "se31b",
+				"coordinates": [[[14.112, 60.901], [15.523, 60.624], [15.405, 60.439], [15.336, 60.12], [14.269, 60.154], [13.246, 60.445], [14.112, 60.901]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se31a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se31a",
+				"areaName": "se31a",
+				"coordinates": [[[14.389, 61.087], [15.436, 61.053], [15.658, 61.076], [15.523, 60.624], [14.112, 60.901], [14.389, 61.087]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se31e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se31e",
+				"areaName": "se31e",
+				"coordinates": [[[14.269, 60.154], [15.336, 60.12], [15.161, 59.749], [14.987, 59.273], [14.002, 59.383], [14.16, 59.781], [14.269, 60.154]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se31d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se31d",
+				"areaName": "se31d",
+				"coordinates": [[[12.696, 59.508], [14.16, 59.781], [14.002, 59.383], [13.062, 59.485], [12.696, 59.508]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se34b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se34b",
+				"areaName": "se34b",
+				"coordinates": [[[18.261, 60.743], [19.087, 60.192], [19.518, 59.889], [19.879, 59.636], [18.58, 59.689], [18.644, 60.087], [17.986, 60.352], [17.577, 60.525], [18.261, 60.743]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se34a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se34a",
+				"areaName": "se34a",
+				"coordinates": [[[17.913, 60.996], [18.261, 60.743], [17.577, 60.525], [17.056, 60.727], [17.089, 61.021], [17.913, 60.996]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se34f" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se34f",
+				"areaName": "se34f",
+				"coordinates": [[[17.986, 60.352], [18.644, 60.087], [18.58, 59.689], [17.688, 59.721], [17.212, 59.709], [17.248, 60.028], [17.986, 60.352]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se34e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se34e",
+				"areaName": "se34e",
+				"coordinates": [[[17.577, 60.525], [17.986, 60.352], [17.248, 60.028], [17.212, 59.709], [16.371, 59.73], [16.398, 60.049], [17.577, 60.525]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se34d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se34d",
+				"areaName": "se34d",
+				"coordinates": [[[15.405, 60.439], [16.398, 60.049], [16.371, 59.73], [15.793, 59.741], [15.161, 59.749], [15.336, 60.12], [15.405, 60.439]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se34c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se34c",
+				"areaName": "se34c",
+				"coordinates": [[[15.658, 61.076], [16.373, 61.037], [17.089, 61.021], [17.056, 60.727], [17.577, 60.525], [16.398, 60.049], [15.405, 60.439], [15.523, 60.624], [15.658, 61.076]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se33a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se33a",
+				"areaName": "se33a",
+				"coordinates": [[[19.227, 59.181], [19.275, 58.011], [18.574, 57.99], [17.291, 58.089], [17.311, 58.274], [17.956, 58.596], [19.227, 59.181]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se33e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se33e",
+				"areaName": "se33e",
+				"coordinates": [[[19.917, 57.977], [19.918, 59.52], [19.879, 59.636], [19.983, 59.563], [21.0, 59.0], [19.833, 57.0], [19.917, 57.977]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se33d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se33d",
+				"areaName": "se33d",
+				"coordinates": [[[19.275, 58.011], [19.917, 57.977], [19.833, 57.0], [18.435, 56.3], [17.824, 56.781], [18.075, 56.876], [18.881, 57.421], [19.275, 58.011]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se33c"
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se33c",
+				"areaName": "se33c",
+				"coordinates": [[[17.291, 58.089], [18.574, 57.99], [17.922, 57.567], [18.075, 56.876], [17.824, 56.781], [17.237, 57.59], [17.291, 58.089]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se33b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se33b",
+				"areaName": "se33b",
+				"coordinates": [[[19.918, 59.52], [19.917, 57.977], [19.275, 58.011], [19.227, 59.181], [19.918, 59.52]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se33f" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se33f",
+				"areaName": "se33f",
+				"coordinates": [[[18.574, 57.99], [19.275, 58.011], [18.881, 57.421], [18.075, 56.876], [17.922, 57.567], [18.574, 57.99]]]
+			}
+		},{
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43d",
+				"areaName": "se43d",
+				"coordinates": [[[18.913, 64.172], [19.995, 63.746], [19.014, 63.436], [18.155, 63.737], [18.913, 64.172]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43c",
+				"areaName": "se43c",
+				"coordinates": [[[20.167, 63.167], [19.642, 61.999], [19.531, 61.738], [18.19, 61.738], [18.443, 62.241], [19.692, 62.946], [20.167, 63.167]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43b",
+				"areaName": "se43b",
+				"coordinates": [[[18.619, 63.261], [19.692, 62.946], [18.443, 62.241], [17.493, 62.487], [18.276, 63.003], [18.619, 63.261]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43a",
+				"areaName": "se43a",
+				"coordinates": [[[19.995, 63.746], [20.667, 63.475], [20.167, 63.167], [19.692, 62.946], [18.619, 63.261], [19.014, 63.436], [19.995, 63.746]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43h" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43h",
+				"areaName": "se43h",
+				"coordinates": [[[16.132, 64.383], [18.155, 63.737], [17.36, 63.274], [15.29, 63.852], [16.132, 64.383]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43g" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43g",
+				"areaName": "se43g",
+				"coordinates": [[[17.01, 64.909], [18.913, 64.172], [18.155, 63.737], [16.132, 64.383], [17.01, 64.909]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43f" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43f",
+				"areaName": "se43f",
+				"coordinates": [[[17.36, 63.274], [18.276, 63.003], [17.493, 62.487], [16.529, 62.753], [17.36, 63.274]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43e",
+				"areaName": "se43e",
+				"coordinates": [[[18.155, 63.737], [19.014, 63.436], [18.619, 63.261], [18.276, 63.003], [17.36, 63.274], [18.155, 63.737]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se43i" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se43i",
+				"areaName": "se43i",
+				"coordinates": [[[15.29, 63.852], [17.36, 63.274], [16.529, 62.753], [15.545, 63.012], [14.422, 63.263], [15.29, 63.852]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se42c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se42c",
+				"areaName": "se42c",
+				"coordinates": [[[18.19, 61.738], [19.531, 61.738], [19.5, 61.667], [19.311, 60.974], [19.206, 60.579], [19.087, 60.192], [18.261, 60.743], [17.913, 60.996], [18.19, 61.738]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se42b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se42b",
+				"areaName": "se42b",
+				"coordinates": [[[17.287, 61.766], [18.19, 61.738], [17.913, 60.996], [17.089, 61.021], [17.287, 61.766]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se42a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se42a",
+				"areaName": "se42a",
+				"coordinates": [[[17.493, 62.487], [18.443, 62.241], [18.19, 61.738], [17.287, 61.766], [17.493, 62.487]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se42e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se42e",
+				"areaName": "se42e",
+				"coordinates": [[[16.439, 61.787], [17.287, 61.766], [17.089, 61.021], [16.373, 61.037], [16.432, 61.706], [16.439, 61.787]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se42d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se42d",
+				"areaName": "se42d",
+				"coordinates": [[[16.529, 62.753], [17.493, 62.487], [17.287, 61.766], [16.439, 61.787], [16.498, 62.43], [16.529, 62.753]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44a",
+				"areaName": "se44a",
+				"coordinates": [[[21.662, 65.601], [22.627, 65.875], [24.125, 65.896], [24.155, 65.818], [24.149, 65.701], [22.403, 65.256], [21.662, 65.601]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44e",
+				"areaName": "se44e",
+				"coordinates": [[[24.125, 65.896], [22.627, 65.875], [21.662, 65.601], [21.058, 65.798], [22.501, 66.269], [23.659, 66.325], [23.715, 66.225], [23.835, 66.177], [24.125, 65.896]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44d",
+				"areaName": "se44d",
+				"coordinates": [[[22.403, 65.256], [24.149, 65.701], [24.14, 65.53], [23.849, 65.323], [22.917, 64.683], [21.5, 63.617], [21.898, 64.327], [22.403, 65.256]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44c",
+				"areaName": "se44c",
+				"coordinates": [[[21.898, 64.327], [21.5, 63.617], [20.667, 63.475], [19.995, 63.746], [21.264, 64.527], [21.898, 64.327]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44b",
+				"areaName": "se44b",
+				"coordinates": [[[21.662, 65.601], [22.403, 65.256], [21.898, 64.327], [21.264, 64.527], [20.839, 64.823], [21.662, 65.601]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44i" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44i",
+				"areaName": "se44i",
+				"coordinates": [[[22.365, 67.022], [22.501, 66.269], [21.058, 65.798], [20.086, 66.173], [22.365, 67.022]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44h" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44h",
+				"areaName": "se44h",
+				"coordinates": [[[23.659, 66.325], [22.501, 66.269], [22.365, 67.022], [23.665, 67.44], [23.767, 67.435], [23.813, 67.325], [23.606, 67.261], [23.58, 67.161], [23.924, 66.898], [24.013, 66.82], [23.899, 66.76], [23.889, 66.572], [23.648, 66.441], [23.659, 66.325]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44g" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44g",
+				"areaName": "se44g",
+				"coordinates": [[[19.896, 65.168], [20.839, 64.823], [21.264, 64.527], [19.995, 63.746], [18.913, 64.172], [19.896, 65.168]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44f" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44f",
+				"areaName": "se44f",
+				"coordinates": [[[21.058, 65.798], [21.662, 65.601], [20.839, 64.823], [19.896, 65.168], [20.145, 65.376], [21.058, 65.798]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44m" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44m",
+				"areaName": "se44m",
+				"coordinates": [[[21.973, 67.658], [22.365, 67.022], [19.976, 66.781], [20.321, 67.086], [20.194, 67.883], [21.973, 67.658]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44l" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44l",
+				"areaName": "se44l",
+				"coordinates": [[[23.665, 67.44], [22.365, 67.022], [21.973, 67.658], [23.41, 67.497], [23.512, 67.448], [23.665, 67.44]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44k" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44k",
+				"areaName": "se44k",
+				"coordinates": [[[18.616, 65.6], [19.896, 65.168], [18.913, 64.172], [17.01, 64.909], [18.616, 65.6]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44j" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44j",
+				"areaName": "se44j",
+				"coordinates": [[[20.086, 66.173], [21.058, 65.798], [20.145, 65.376], [19.896, 65.168], [18.616, 65.6], [20.086, 66.173]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44o" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44o",
+				"areaName": "se44o",
+				"coordinates": [[[20.194, 67.883], [20.367, 68.111], [20.919, 68.111], [21.904, 68.576], [22.038, 68.481], [22.32, 68.479], [22.563, 68.426], [22.834, 68.388], [23.057, 68.307], [23.151, 68.243], [23.172, 68.133], [23.296, 68.152], [23.407, 68.046], [23.656, 67.963], [23.486, 67.824], [23.498, 67.664], [23.556, 67.627], [23.41, 67.497], [21.973, 67.658], [20.194, 67.883]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se44n" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se44n",
+				"areaName": "se44n",
+				"coordinates": [[[22.365, 67.022], [20.086, 66.173], [19.783, 66.607], [19.976, 66.781], [22.365, 67.022]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se41b" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se41b",
+				"areaName": "se41b",
+				"coordinates": [[[15.51, 62.42], [16.498, 62.43], [16.439, 61.787], [16.432, 61.706], [15.472, 61.722], [15.51, 62.42]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se41a" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se41a",
+				"areaName": "se41a",
+				"coordinates": [[[15.545, 63.012], [16.529, 62.753], [16.498, 62.43], [15.51, 62.42], [15.545, 63.012]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se41f" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se41f",
+				"areaName": "se41f",
+				"coordinates": [[[14.398, 61.757], [15.472, 61.722], [15.436, 61.053], [14.389, 61.087], [14.398, 61.757]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se41e" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se41e",
+				"areaName": "se41e",
+				"coordinates": [[[14.409, 62.455], [15.51, 62.42], [15.472, 61.722], [14.398, 61.757], [14.409, 62.455]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se41d" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se41d",
+				"areaName": "se41d",
+				"coordinates": [[[14.422, 63.263], [15.545, 63.012], [15.51, 62.42], [14.409, 62.455], [14.422, 63.263]]]
+			}
+		}, {
+			"type": "Feature", 
+			"properties": { 
+				"name":"se41c" 
+			}, 
+			"geometry": { 
+				"type": "Polygon",
+				"areaCode": "se41c",
+				"areaName": "se41c",
+				"coordinates": [[[15.472, 61.722], [16.432, 61.706], [16.373, 61.037], [15.658, 61.076], [15.436, 61.053], [15.472, 61.722]]]
+			}
+		}
+	
+	]
+		
+}
